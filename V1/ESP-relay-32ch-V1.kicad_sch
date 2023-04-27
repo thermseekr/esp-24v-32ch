@@ -107,7 +107,6 @@
   )
 
 
-
   (wire (pts (xy 88.9 101.6) (xy 109.22 101.6))
     (stroke (width 0) (type default))
     (uuid 002f0d99-f7f8-4f78-9a39-eb91607049ab)
