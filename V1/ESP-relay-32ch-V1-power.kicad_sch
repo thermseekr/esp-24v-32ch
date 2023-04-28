@@ -3606,7 +3606,7 @@
     (property "Value" "VIN" (at 34.29 33.02 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Tales:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal" (at 34.29 36.83 0)
+    (property "Footprint" "Tales:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal" (at 34.29 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 34.29 36.83 0)
