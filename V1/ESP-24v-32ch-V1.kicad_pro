@@ -435,7 +435,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ESP-relay-32ch-V1.kicad_pro",
+    "filename": "ESP-24v-32ch-V1.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -469,7 +469,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "ESP-relay_6ch.net",
+      "netlist": "ESP-24v_32ch.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
