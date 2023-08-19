@@ -3481,7 +3481,7 @@
     (property "Value" "2A 600R" (at 246.38 118.11 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_SMD:L_0805_2012Metric" (at 246.38 124.46 0)
+    (property "Footprint" "Tales:L_0805_2012Metric" (at 246.38 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 246.38 124.46 0)

@@ -676,6 +676,12 @@
     (uuid fec370a9-3d57-4ece-9a1a-8c23ddc5ce4b)
   )
 
+  (text "UPDATES PARA V2:\nALTERAR CONECTOR USB PARA 2.0 TIPO C HORIZONTAL\nALTERAR CONECTOR 24V PARA SPRING CAGE\nADICIONAR POE\nMOVER LED POWER PARA RAIL 5V\nREFAZER LAYOUT EM 4 LAYERS PARA DIMINUIR TAMANHO"
+    (at 60.96 187.96 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 2c999a2a-17bc-4c40-aff3-cee25c27bff7)
+  )
+
   (symbol (lib_id "Connector_Generic:Conn_01x08") (at 251.46 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3ade5c6e-5a9f-4fd0-abe5-ec62c063d514)

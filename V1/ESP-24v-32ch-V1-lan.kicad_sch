@@ -3846,7 +3846,7 @@
     (property "Value" "ESDS314DBV" (at 252.73 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5" (at 254 91.44 0)
+    (property "Footprint" "Tales:SOT-23-5" (at 254 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 252.73 82.55 0)
